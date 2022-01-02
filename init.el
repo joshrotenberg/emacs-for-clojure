@@ -73,7 +73,14 @@
     tagedit
 
     ;; git integration
-    magit))
+    magit
+    
+    ;; clj-kondo linting
+    flycheck-clj-kondo
+
+    ;; lfe
+;;    lfe-mode
+    ))
 
 ;; On OS X, an Emacs instance started from the graphical user
 ;; interface will have a different environment than a shell in a
@@ -137,6 +144,9 @@
 ;; Langauage-specific
 (load "setup-clojure.el")
 (load "setup-js.el")
+(load "setup-lfe.el")
+
+
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
@@ -144,8 +154,7 @@
  ;; If there is more than one, they won't work right.
  '(coffee-tab-width 2)
  '(package-selected-packages
-   (quote
-    (magit tagedit rainbow-delimiters projectile smex ido-completing-read+ cider clojure-mode-extra-font-locking clojure-mode paredit exec-path-from-shell))))
+   '(rustic docker-compose-mode elixir-mode flycheck-rust poe-lootfilter-mode ## erlang magithub flycheck-clojure rust-playground rust-mode cider-hydra lfe-mode docker-cli flycheck-clj-kondo magit tagedit rainbow-delimiters projectile smex ido-completing-read+ cider clojure-mode-extra-font-locking clojure-mode paredit exec-path-from-shell)))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.

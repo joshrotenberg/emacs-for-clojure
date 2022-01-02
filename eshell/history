@@ -1,0 +1,31 @@
+lein deps
+lein deps
+lein check
+lein run migrate
+ls
+ls src/
+ls resources/
+ls resources/sql/
+cat resources/sql/queries.sql 
+ls
+ls src/
+ls -lsa src/clj/
+ls -lsa src/clj/covid19_clj/db/core.clj 
+cat src/clj/covid19_clj/db/core.clj 
+docker-compose up
+docker-compose up
+lein deps
+docker-compose up
+docker ps
+history |grep docker
+docker ps
+docker-compose up
+ls
+rebar3 lfe repl
+ls
+ls
+cd ..
+rebar3 lfe repl
+rebar3 lfe repl
+cd ..
+rebar3 lfe repl

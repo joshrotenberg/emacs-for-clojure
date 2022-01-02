@@ -1,0 +1,2 @@
+;;; Generated package description from poe-lootfilter-mode.el  -*- no-byte-compile: t -*-
+(define-package "poe-lootfilter-mode" "1.0.0" "Major mode for editing Path of Exile lootfilters" '((emacs "24.3")) :commit "5ef06684cb2b17b090ee1f303c2b789fa71bc106" :authors '(("Jeremiah Dodds" . "jeremiah.dodds@gmail.com")) :maintainer '("Jeremiah Dodds" . "jeremiah.dodds@gmail.com") :keywords '("languages" "games") :url "https://github.com/jdodds/poe-lootfilter-mode")

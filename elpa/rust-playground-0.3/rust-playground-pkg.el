@@ -1,0 +1,2 @@
+;;; Generated package description from rust-playground.el  -*- no-byte-compile: t -*-
+(define-package "rust-playground" "0.3" "Local Rust playground for short code snippets." '((emacs "24.3")) :commit "092c8b11d62dea23953a004744833092bac85fe1" :authors '(("Alexander I.Grafov" . "grafov@gmail.com")) :maintainer '("Alexander I.Grafov" . "grafov@gmail.com") :keywords '("tools" "rust") :url "https://github.com/grafov/rust-playground")
