@@ -1,0 +1,223 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/joshrotenberg/GitHub/starwars-clj/env/dev/clj/" . "starwars/")
+ ("/Users/joshrotenberg/GitHub/starwars-clj/env/dev/" . "clj/")
+ ("/Users/joshrotenberg/GitHub/starwars-clj/env/" . "dev/")
+ ("/Users/joshrotenberg/GitHub/starwars-clj/" . "env/")
+ ("/Users/joshrotenberg/GitHub/starwars-clj/src/clj/starwars/" . "db/")
+ ("/Users/joshrotenberg/GitHub/starwars-clj/src/clj/" . "starwars/")
+ ("/Users/joshrotenberg/GitHub/starwars-clj/src/" . "clj/")
+ ("/Users/joshrotenberg/GitHub/agent-lfe/" . "src/")
+ ("/Users/joshrotenberg/.emacs.d/" . "themes/")
+ ("/Users/joshrotenberg/GitHub/oso-clj-demo/src/clj/oso_clj_demo/" . "middleware/")
+ ("/Users/joshrotenberg/GitHub/oso-clj-demo/src/clj/" . "oso_clj_demo/")
+ ("/Users/joshrotenberg/GitHub/oso-clj-demo/src/" . "clj/")
+ ("/Users/joshrotenberg/GitHub/oso-clj-demo/env/dev/clj/" . "oso_clj_demo/")
+ ("/Users/joshrotenberg/GitHub/oso-clj-demo/" . "env/")
+ ("/Users/joshrotenberg/GitHub/oso-clj-demo/env/dev/" . "clj/")
+ ("/Users/joshrotenberg/GitHub/oso-clj-demo/env/" . "dev/")
+ ("/tmp/mynewapp/src/" . "myusername/")
+ ("/Users/" . "joshrotenberg/")
+ ("/" . "Users/")
+ ("/tmp/covid19/" . "resources/")
+ ("/tmp/covid19/src/clj/covid19/" . "routes/")
+ ("/tmp/covid19/src/clj/" . "covid19/")
+ ("/tmp/covid19/src/" . "clj/")
+ ("/tmp/covid19/resources/" . "sql/")
+ ("/Users/joshrotenberg/GitHub/covid19-clj/src/clj/covid19/" . "db/")
+ ("/Users/joshrotenberg/GitHub/covid19-clj/env/dev/" . "resources/")
+ ("/Users/joshrotenberg/GitHub/covid19-clj/env/" . "dev/")
+ ("/Users/joshrotenberg/GitHub/covid19-clj/" . "src/")
+ ("/Users/joshrotenberg/" . "GitHub/")
+ ("/Users/joshrotenberg/GitHub/covid19-clj/resources/" . "sql/")
+ ("/Users/joshrotenberg/GitHub/covid19-clj/src/clj/covid19_clj/" . "fetch/")
+ ("/Users/joshrotenberg/GitHub/covid19-clj/src/clj/" . "covid19/")
+ ("/Users/joshrotenberg/GitHub/covid19-clj/src/" . "clj/")
+ ("/Users/joshrotenberg/GitHub/" . "starwars/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/joshrotenberg/.emacs.d/themes/"
+ "/Users/joshrotenberg/.emacs.d/customizations/"
+ "/Users/joshrotenberg/GitHub/starwars/"
+ "/Users/joshrotenberg/.emacs.d/"
+ "/Users/joshrotenberg/GitHub/starwars-clj/src/clj/starwars/db/"
+ "/Users/joshrotenberg/GitHub/agent-lfe/src/"
+ "/Users/joshrotenberg/"
+ "/Users/joshrotenberg/GitHub/starwars-clj/"
+ "/Users/joshrotenberg/GitHub/starwars-clj/env/dev/clj/"
+ "/Users/joshrotenberg/GitHub/oso-clj-demo/src/clj/oso_clj_demo/middleware/"
+ "/Users/joshrotenberg/GitHub/oso-clj-demo/"
+ "/Users/joshrotenberg/GitHub/oso-clj-demo/notebooks/"
+ "/Users/joshrotenberg/GitHub/oso-clj-demo/env/dev/clj/"
+ "/Users/joshrotenberg/GitHub/oso-clj-demo/env/dev/clj/oso_clj_demo/"
+ "/tmp/mynewapp/src/myusername/"
+ "/Users/joshrotenberg/GitHub/covid19-clj/"
+ "/Users/joshrotenberg/GitHub/covid19-clj/src/clj/covid19/"
+ "/Users/joshrotenberg/GitHub/covid19-clj/src/clj/covid19/db/"
+ "/Users/joshrotenberg/GitHub/covid19-clj/resources/sql/"
+ "/Users/joshrotenberg/GitHub/covid19-clj/resources/graphql/"
+ "/Users/joshrotenberg/GitHub/covid19-clj/src/clj/covid19/routes/services/"
+ "/Users/joshrotenberg/GitHub/covid19-clj/src/clj/covid19/routes/"
+ "/tmp/covid19/src/clj/covid19/routes/"
+ "/tmp/covid19/resources/sql/"
+ "/tmp/covid19/src/clj/covid19/db/"
+ "/tmp/covid19/"
+ "/tmp/covid19/resources/migrations/"
+ "/Users/joshrotenberg/GitHub/covid19-clj/resources/migrations/"
+ "/Users/joshrotenberg/GitHub/covid19-clj/src/clj/covid19_clj/fetch/"
+ "/Users/joshrotenberg/GitHub/covid19-clj/src/clj/covid19_clj/db/"
+ "/Users/joshrotenberg/GitHub/covid19-clj/env/dev/resources/"
+ "/Users/joshrotenberg/GitHub/covid19-clj/env/dev/clj/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "tomorrow-night-eighties-theme.el"
+ "ui.el"
+ "mix.exs"
+ "setup-elixir.el"
+ "setup-clojure.el"
+ "init.el"
+ "people.clj"
+ "agent-lfe_server.lfe"
+ "foo.el"
+ "docker-compose.yml"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/joshrotenberg/.emacs.d/" (25041 866 838892 190000) ".smex-items" "magithub/" "cider-history" "backups/" "themes/" ".git/" "elpa/" ".gitignore" ".recentf" "README.md" "init.el" "auto-save-list/" "projectile-bookmarks.eld" "customizations/" "eshell/" "ido.last" "../" "./")
+
+ ("/Users/joshrotenberg/" (25041 785 37653 739000) ".zsh_sessions/" ".viminfo" ".bash_history" ".gitconfig" ".aws/" ".inputrc" ".cache/" ".python_history" "Downloads/" ".oh-my-zsh/" ".Xauthority" ".gem/" ".m2/" ".vscode/" ".mono/" ".testcontainers.properties" ".gitlibs/" ".tmux/" ".zcompdump-Josh’s MacBook Pro-5.7.1" ".pyenv/" "Documents/" ".npm/" ".Trash/" "foo.el" ".cookiecutter_replay/" ".gradle/" ".profile" "Applications/" ".vimrc" "Movies/" ".ssh/" ".rustup/" ".konan/" "oso/" "GitHub/" ".ideavimrc" "Public/" ".lein/" ".cups/" ".clojure.old/" ".dlv/" ".android/" ".cargo/" ".emacs.d/" ".oracle_jre_usage/" ".doom.d/" ".erlang.cookie" ".lesshst" "Library/" "Desktop/" ".zsh_history" "Postman/" ".clojure_history" "ttb_last_config" ".lfe_history" ".bundle/" ".openjfx/" ".zcompdump-Josh’s MacBook Pro-5.8" "tut1.beam" ".zprofile" ".pylint.d/" "Pictures/" ".local/" ".rebel_readline_history" ".emacs.d-doom/" ".mix/" ".emacs.d.flying-machine/" ".zshrc" ".netrc" "doof.clj" ".CFUserTextEncoding" ".yarnrc" ".tmux.conf" ".gnupg/" ".DS_Store" "go/" ".vim/" ".deps.clj/" ".node-gyp/" ".fly/" ".docker/" ".clojure/" "tut1.lfe" "Developer/" "Music/" ".config/" ".hex/" "../" "./")
+
+ ("/Users/joshrotenberg/.emacs.d.flying-machine/" (25041 135 564123 532000) ".smex-items" "magithub/" "cider-history" "backups/" "themes/" ".git/" "elpa/" ".gitignore" ".recentf" "README.md" "init.el" "auto-save-list/" "projectile-bookmarks.eld" "customizations/" "eshell/" "ido.last" "../" "./")
+
+ ("/Users/joshrotenberg/.emacs.d/customizations/" (25041 27 429310 646000) "elisp-editing.el" "setup-lfe.el" "setup-js.el" "navigation.el" "editing.el" "setup-clojure.el" "misc.el" "shell-integration.el" "ui.el" "setup-elixir.el" "../" "./")
+
+ ("/Users/" (25007 61615 0 0) "joshrotenberg/" "jonahrotenberg/" "Shared/" ".localized" "../" "./")
+
+ ("/Users/joshrotenberg/GitHub/" (25036 59411 554089 574000) "cargo-generate/" "sqldelight/" "mdBook/" "serde-cookbook/" "toml-rs/" "octocrab/" "creating-http-api-ktor/" "docs-sdk-kotlin/" "linguaservice/" "joshrotenberg/" "dgs-examples-kotlin/" "lingua-rs/" "zero-to-production/" "native-test/" "hebcal-rs/" "docker-compose.yml" "rebar3_depup/" "zellij-org.github.io/" "rust-master/" "lingua-clj/" "adrs/" "starwars/" "strsim_ex/" "lingua_rb/" "awake-template/" "covid19-rs/" "records_ex/" "adrs-old/" "_build/" "lfe-otp-tutorials/" "go-oso/" "oso/" "examples/" "oso-clj-demo/" "oso-python-quickstart/" "hn_ex/" "netlify-rs/" ".gitignore" "rust-clippy/" "covid19-dsg/" "code-server/" "python-cmd-line-cookiecutter/" "kotlin-docs-code.iml" "stargazers-rs/" "starwars-clj/" "sturdy-train/" "rustup/" "rutie/" "agent-lfe/" "frameio_assignment/" "mdbook-spellcheck/" "swapi/" "sheldon/" "paasaa/" "lingua/" "docker-minecraft-server/" "covid_19_nyt_ex/" "graalvm-clojure/" "message-io/" "cowboy_swagger/" "keyboard-configurator/" "aeternity/" "oso-spring-tutorial/" "vup/" "records-clj/" "mdbook-blog/" "rust-analyzer/" "system_76/" "neovide/" "rebar3.org/" "medal-rs/" "docs-sdk-java/" "bok/" "hn_cli_ex/" "luminus-template/" "frameio-rs/" "oso-rust-tutorial/" "graal-cmd-thing/" "lingua_phx/" "realworld-kotlin-ktor/" ".DS_Store" "stargazers/" "classificationbox-rs/" "docker-pi-hole/" "covid19-clj/" "lingua_ex/" "rebar3/" "system76/" "minecraft-spot-pricing/" "../" "./")
+
+ ("/Users/joshrotenberg/GitHub/agent-lfe/src/" (25032 62339 361957 915000) "agent-lfe_server.lfe" "agent-lfe_server2.lfe" "agent-lfe.lfe" "agent-lfe.app.src" "../" "./")
+
+ ("/Users/joshrotenberg/GitHub/starwars-clj/" (25036 44685 591773 189000) "src/" ".idea/" ".vscode/" "Procfile" "docker-compose.yml" "Capstanfile" "log/" ".gitignore" "starwars.iml" "env/" "README.md" "dev-resources/" ".nrepl-port" "resources/" "target/" "Dockerfile" "test/" "test-config.edn" "dev-config.edn" "project.clj" "../" "./")
+
+ ("/Users/joshrotenberg/GitHub/starwars-clj/env/dev/clj/starwars/" (25032 64512 677534 536000) "dev_middleware.clj" "env.clj" "../" "./")
+
+ ("/Users/joshrotenberg/GitHub/starwars-clj/env/dev/clj/" (25032 64512 678658 610000) "user.clj" "starwars/" "../" "./")
+
+ ("/Users/joshrotenberg/GitHub/starwars-clj/env/dev/" (25032 64512 676742 508000) "clj/" "resources/" "../" "./")
+
+ ("/Users/joshrotenberg/GitHub/starwars-clj/env/" (25032 64512 587355 484000) "dev/" "test/" "prod/" "../" "./")
+
+ ("/Users/joshrotenberg/GitHub/starwars-clj/src/clj/starwars/db/" (25032 64512 633041 288000) "core.clj" "../" "./")
+
+ ("/Users/joshrotenberg/GitHub/starwars-clj/src/clj/starwars/" (25032 64512 682464 104000) "config.clj" "routes/" "handler.clj" "db/" "core.clj" "middleware.clj" "nrepl.clj" "middleware/" "../" "./")
+
+ ("/Users/joshrotenberg/GitHub/starwars-clj/src/clj/" (25032 64512 596577 207000) "starwars/" "../" "./")
+
+ ("/Users/joshrotenberg/GitHub/starwars-clj/src/" (25032 64512 596529 68000) "clj/" "../" "./")
+
+ ("/Users/joshrotenberg/GitHub/starwars/priv/" (25020 50621 26795 788000) "repo/" "data/" "static/" "gettext/" "../" "./")
+
+ ("/Users/joshrotenberg/GitHub/starwars/" (25020 49943 548908 430000) "assets/" ".git/" ".formatter.exs" "docker-compose.yml" "deps/" "lib/" "fly.toml" ".github/" "_build/" "fly-io-postgres" ".gitignore" "priv/" "rel/" ".dockerignore" ".elixir_ls/" "README.md" "mix.lock" "Dockerfile" "config/" "test/" "mix.exs" "../" "./")
+
+ ("/Users/joshrotenberg/GitHub/agent-lfe/" (25030 17829 319427 568000) "src/" "rebar.config" "agent-lfe_server.beam" "_build/" ".gitignore" "rebar.lock" "README.md" "test/" "LICENSE" "../" "./")
+
+ ("/Users/joshrotenberg/GitHub/aeternity/" (25021 10457 932644 917000) "rebar.config" "apps/" "sdk_smoke_test/" ".circleci/" "data/" ".git/" "webhook.nix" "rebar.config.script" "default.nix" ".gitattributes" ".github/" "scripts/" "_build/" "hooks/" "deployment/" ".gitignore" ".dockerignore" "eunit_report/" "rebar.lock" "eqc_test/" "README.md" ".editorconfig" "ct_eunit_xform.beam" "docs/" "rebar.lock.script" "Makefile" "Dockerfile" "plugins/" "config/" "debian/" "test/" "LICENSE" "mkdocs.yml" "system_test/" "docker/" "rebar3" "otp_patches/" "../" "./")
+
+ ("/Users/joshrotenberg/.emacs.d/themes/" (24761 42488 722307 543000) "zenburn-theme.el" "tomorrow-night-eighties-theme.el" "color-theme-tomorrow.el" "tomorrow-theme.el" "tomorrow-night-blue-theme.el" "tomorrow-night-bright-theme.el" "tomorrow-night-theme.el" "../" "./")
+
+ ("/Users/joshrotenberg/GitHub/oso-clj-demo/" (25015 55954 171153 535000) "src/" ".idea/" "test_oso.polar" "notebooks/" ".cache/" ".vscode/" "Procfile" "Capstanfile" "log/" ".gitignore" "env/" "README.md" "dev-resources/" "oso-clj-demo.iml" "main.polar" "resources/" "target/" "Dockerfile" "test/" "test-config.edn" "dev-config.edn" "oso_clj_demo_dev.db.mv.db" "project.clj" "../" "./")
+
+ ("/Users/joshrotenberg/GitHub/oso-clj-demo/src/clj/oso_clj_demo/middleware/" (25015 40555 340380 778000) "formats.clj" "authorization.clj" "../" "./")
+
+ ("/Users/joshrotenberg/GitHub/oso-clj-demo/notebooks/" (25014 41128 849019 581000) "../" "./")
+
+ ("/Users/joshrotenberg/GitHub/oso-clj-demo/env/dev/clj/oso_clj_demo/" (24990 40083 846887 548000) "dev_middleware.clj" "env.clj" "../" "./")
+
+ ("/Users/joshrotenberg/GitHub/oso-clj-demo/env/dev/clj/" (25013 33032 414070 740000) "user.clj" "oso_clj_demo/" "../" "./")
+
+ ("/Users/joshrotenberg/GitHub/oso-clj-demo/src/" (24990 40083 774082 893000) "clj/" "../" "./")
+
+ ("/Users/joshrotenberg/GitHub/oso-clj-demo/src/clj/" (24990 40083 774130 289000) "oso_clj_demo/" "../" "./")
+
+ ("/Users/joshrotenberg/GitHub/oso-clj-demo/src/clj/oso_clj_demo/" (24990 40083 851281 685000) "config.clj" "routes/" "handler.clj" "db/" "core.clj" "middleware.clj" "nrepl.clj" "middleware/" "../" "./")
+
+ ("/Users/joshrotenberg/GitHub/oso-clj-demo/env/dev/" (24990 40083 846312 508000) "clj/" "resources/" "../" "./")
+
+ ("/Users/joshrotenberg/GitHub/oso-clj-demo/env/" (24990 40083 769061 539000) "dev/" "test/" "prod/" "../" "./")
+
+ ("/tmp/mynewapp/src/myusername/" (25006 58870 589710 385000) "mynewapp.clj" "../" "./")
+
+ ("/tmp/mynewapp/src/" (25006 58870 589626 122000) "myusername/" "../" "./")
+
+ ("/tmp/mynewapp/" (25006 60566 31365 313000) "src/" ".cpcache/" "build.clj" "doc/" ".gitignore" "README.md" "pom.xml" ".nrepl-port" "resources/" ".rebel_readline_history" "deps.edn" "CHANGELOG.md" "test/" "LICENSE" "../" "./")
+
+ ("/Users/joshrotenberg/.config/" (24981 10900 888844 799000) "coc/" "spotify-tui/" ".mono/" "jgit/" "iterm2/" "code-server/" "htop/" "neofetch/" "configstore/" "gh/" "rebar3/" "../" "./")
+
+ ("/Applications/" (25005 25374 366333 593000) "Discord.app/" "Twitter.app/" "Slack.app/" "Microsoft Teams.app/" "Webex.app/" "DYMO Label.app/" "Postman.app/" "Alacritty.app/" "Emacs.app/" "iTerm.app/" "IntelliJ IDEA CE.app/" "Mini Motorways.app/" "VirtualBox.app/" "GarageBand.app/" "Pages.app/" "MacVim.app/" "Keynote.app/" "IntelliJ IDEA.app/" "GitHub Desktop.app/" "Luna Display.app/" "zoom.us.app/" "Utilities/" "FlagSwitcher.app/" "GPG Keychain.app/" "Safari.app/" "SpeedDemons.app/" "Docker.app/" "Zulip.app/" "iMovie.app/" "Spotify.app/" "Xcode.app/" "VimR.app/" ".localized" "Numbers.app/" "Anki.app/" "Google Chrome.app/" "Reverso.app/" ".DS_Store" "Signal.app/" "Visual Studio Code.app/" "Logi Options.app/" "../" "./")
+
+ ("/tmp/" (25006 58870 564788 439000) "untitled/" "TemporaryDirectory.pepTQZ/" "mynewapp/" "_build/" "com.apple.launchd.88Xm6Id3qP/" "com.apple.launchd.CUITzUqlEp/" "agent/" "TemporaryDirectory.vSMlzF/" "TemporaryDirectory.a1u70Z/" "TemporaryDirectory.Zeo4su/" "../" "./")
+
+ ("/Users/joshrotenberg/GitHub/covid19-clj/" (24992 1332 745824 512000) "src/" ".idea/" ".git/" "Procfile" "docker-compose.yml" "log/" ".gitignore" ".lein-repl-history" "env/" "README.md" "dev-resources/" ".nrepl-port" "resources/" "target/" "Dockerfile" "test/" ".DS_Store" "test-config.edn" "dev-config.edn" "covid19.iml" "project.clj" "../" "./")
+
+ ("/Users/joshrotenberg/GitHub/covid19-clj/src/clj/covid19/" (24771 50620 188025 778000) "config.clj" "routes/" "handler.clj" "db/" "core.clj" "middleware.clj" "fetch.clj" "nrepl.clj" "middleware/" "layout.clj" "../" "./")
+
+ ("/Users/joshrotenberg/GitHub/covid19-clj/src/clj/covid19/db/" (24770 60091 492380 304000) "core.clj" "../" "./")
+
+ ("/Users/joshrotenberg/GitHub/covid19-clj/resources/sql/" (24770 60060 137425 993000) "queries.sql" "../" "./")
+
+ ("/Users/joshrotenberg/GitHub/covid19-clj/resources/graphql/" (24769 21278 961453 19000) "schema.edn" "../" "./")
+
+ ("/Users/joshrotenberg/GitHub/covid19-clj/resources/" (24769 21278 997206 416000) "sql/" "graphql/" "public/" "docs/" "html/" "migrations/" "../" "./")
+
+ ("/Users/joshrotenberg/GitHub/covid19-clj/src/clj/covid19/routes/" (24770 50552 49409 785000) "services/" "services.clj" "graphiql.clj" "../" "./")
+
+ ("/Users/joshrotenberg/GitHub/covid19-clj/src/clj/covid19/routes/services/" (24769 21278 969835 780000) "graphql.clj" "../" "./")
+
+ ("/Users/joshrotenberg/GitHub/covid19-clj/src/clj/" (24769 21278 969684 397000) "covid19/" "../" "./")
+
+ ("/Users/joshrotenberg/GitHub/covid19-clj/src/" (24769 21278 969637 934000) "clj/" "../" "./")
+
+ ("/tmp/covid19/" (24769 32563 426976 658000) "src/" ".vscode/" "Procfile" "docker-compose.yml" "Capstanfile" "log/" ".gitignore" "env/" "README.md" ".nrepl-port" "resources/" "target/" "Dockerfile" "test/" "test-config.edn" "dev-config.edn" "project.clj" "../" "./")
+
+ ("/tmp/covid19/src/clj/covid19/routes/" (24769 21278 974542 224000) "services/" "services.clj" "../" "./")
+
+ ("/tmp/covid19/src/clj/covid19/db/" (24769 21279 3179 284000) "core.clj" "../" "./")
+
+ ("/tmp/covid19/src/clj/covid19/" (24769 21279 50453 241000) "config.clj" "routes/" "handler.clj" "db/" "core.clj" "middleware.clj" "nrepl.clj" "middleware/" "../" "./")
+
+ ("/tmp/covid19/src/clj/" (24769 21278 969684 397000) "covid19/" "../" "./")
+
+ ("/tmp/covid19/src/" (24769 21278 969637 934000) "clj/" "../" "./")
+
+ ("/tmp/covid19/resources/sql/" (24769 21278 997281 882000) "queries.sql" "../" "./")
+
+ ("/tmp/covid19/resources/migrations/" (24769 21446 946162 256000) "20210609164742-add-state-table.up.sql" "20210609164742-add-state-table.down.sql" "../" "./")
+
+ ("/tmp/covid19/resources/" (24769 21278 997206 416000) "sql/" "graphql/" "public/" "docs/" "html/" "migrations/" "../" "./")
+
+ ("/Users/joshrotenberg/GitHub/covid19-clj/resources/migrations/" (24767 30591 365572 929000) "20210608135538-add-state-table.down.sql" "20210608135538-add-state-table.up.sql" "20210607211343-add-users-table.up.sql" "20210607211343-add-users-table.down.sql" "../" "./")
+
+ ("/Users/joshrotenberg/GitHub/covid19-clj/env/dev/resources/" (24756 20952 186163 146000) "config.edn" "logback.xml" "../" "./")
+
+ ("/Users/joshrotenberg/GitHub/covid19-clj/env/dev/clj/" (24756 20952 191568 866000) "user.clj" "covid19_clj/" "../" "./")
+
+ ("/Users/joshrotenberg/GitHub/covid19-clj/env/dev/" (24756 20952 188118 39000) "clj/" "resources/" "../" "./")
+
+ ("/Users/joshrotenberg/GitHub/covid19-clj/env/" (24756 20952 88056 109000) "dev/" "test/" "prod/" "../" "./")
+
+ ("/Users/joshrotenberg/GitHub/covid19-clj/src/clj/covid19_clj/db/" (24756 20952 132976 20000) "core.clj" "../" "./")
+
+ ("/Users/joshrotenberg/GitHub/covid19-clj/src/clj/covid19_clj/fetch/" (24761 43652 277615 322000) "core.clj" "covid19_clj/" "../" "./")
+
+ ("/Users/joshrotenberg/GitHub/covid19-clj/src/clj/covid19_clj/" (24761 40938 980164 623000) "config.clj" "routes/" "handler.clj" "db/" "fetch/" "core.clj" "middleware.clj" "nrepl.clj" "middleware/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
