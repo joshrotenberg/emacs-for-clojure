@@ -145,7 +145,7 @@
 (load "setup-clojure.el")
 (load "setup-js.el")
 (load "setup-lfe.el")
-
+(load "setup-elixir.el")
 
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
@@ -154,7 +154,7 @@
  ;; If there is more than one, they won't work right.
  '(coffee-tab-width 2)
  '(package-selected-packages
-   '(rustic docker-compose-mode elixir-mode flycheck-rust poe-lootfilter-mode ## erlang magithub flycheck-clojure rust-playground rust-mode cider-hydra lfe-mode docker-cli flycheck-clj-kondo magit tagedit rainbow-delimiters projectile smex ido-completing-read+ cider clojure-mode-extra-font-locking clojure-mode paredit exec-path-from-shell)))
+   '(alchemist rustic docker-compose-mode elixir-mode flycheck-rust poe-lootfilter-mode ## erlang magithub flycheck-clojure rust-playground rust-mode cider-hydra lfe-mode docker-cli flycheck-clj-kondo magit tagedit rainbow-delimiters projectile smex ido-completing-read+ cider clojure-mode-extra-font-locking clojure-mode paredit exec-path-from-shell)))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
