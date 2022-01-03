@@ -13,3 +13,4 @@ archive-contents
 *.elc
 /transient
 .emacs.desktop
+proxy.el
