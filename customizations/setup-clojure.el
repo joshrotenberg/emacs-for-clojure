@@ -2,6 +2,8 @@
 ;; Clojure
 ;;;;
 
+(require 'flycheck-clj-kondo)
+
 ;; Enable paredit for Clojure
 (add-hook 'clojure-mode-hook 'enable-paredit-mode)
 
